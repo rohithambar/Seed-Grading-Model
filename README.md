@@ -11,3 +11,12 @@ The pipeline includes:
 The trained CNN achieves **~93% accuracy** with an 80/20 train-test split.
 
 ---
+- **Requirements**
+tensorflow
+opencv-python
+pillow
+pillow-heif
+matplotlib
+numpy
+
+
